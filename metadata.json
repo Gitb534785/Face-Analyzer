@@ -1,0 +1,5 @@
+{
+  "name": "AI Face Analyzer",
+  "description": "Upload a photo of a face to get an AI-powered estimation of age and gender using Google's Gemini model. This tool is for entertainment and educational purposes only.",
+  "requestFramePermissions": []
+}
